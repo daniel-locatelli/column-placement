@@ -1,0 +1,5 @@
+C:\Users\danie\source\repos\column-placement\obj\Debug\net48\GrasshopperScripts.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\column-placement\obj\Debug\net48\GrasshopperScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\column-placement\obj\Debug\net48\GrasshopperScripts.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\column-placement\obj\Debug\net48\GrasshopperScripts.AssemblyInfo.cs
+C:\Users\danie\source\repos\column-placement\obj\Debug\net48\GrasshopperScripts.csproj.CoreCompileInputs.cache
